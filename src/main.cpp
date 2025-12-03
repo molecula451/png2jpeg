@@ -21,7 +21,7 @@ void printUsage(const char* programName) {
 }
 
 void printVersion() {
-    std::cout << "png2jpg version 1.0. 0\n";
+    std::cout << "png2jpg version 1.0.0\n";
     std::cout << "PNG to JPEG converter written in pure C++17\n";
     std::cout << "No external libraries or dependencies\n";
 }
