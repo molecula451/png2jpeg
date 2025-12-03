@@ -1,5 +1,8 @@
 # PNG to JPEG Converter
 
+
+<img width="1103" height="631" alt="png2jpeg" src="https://github.com/user-attachments/assets/2cbe157c-871f-478d-ac13-aac9243a1c52" />
+
 A fast, modern C++17 PNG to JPEG converter with **zero external dependencies**.
 
 ## Features
