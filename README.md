@@ -18,7 +18,7 @@ A fast, modern C++17 PNG to JPEG converter with **zero external dependencies**.
 ### Requirements
 
 - CMake 3.10 or higher
-- C++17 compatible compiler (GCC 7+, Clang 5+, MSVC 2017+)
+- Only g++ tested
 
 ### Compile
 
